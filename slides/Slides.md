@@ -1,6 +1,6 @@
 ---
 title       : Introduction aux métiers
-author      : Jonathan Lechien & Mohamed Hadjili & Abderrahmen Belfikh
+author      : Abderrahmen Belfkih & Zakaria Attaouil
 description : Support de la première séance de l'activité INTM1.
 keywords    : Marp, Slides, Informatique, Métiers.
 marp        : true
@@ -38,8 +38,8 @@ theme       : godel
 
 <div class="title"         > Introduction aux métiers </div>
 <div class="subtitle"      > INTM1 </div>
-<div class="author"        > J. Lechien & M. Hadjili & A. Belfikh </div>
-<div class="date"          > Semaine du 20 octobre 2025 </div>
+<div class="author"        > A. Belfkih & Z. Attaouil </div>
+<div class="date"          > Semaine du 19 septembre 2026 </div>
 <div class="organization"  > Haute École Bruxelles-Brabant : 
 Département des Sciences Informatiques</div>
 
@@ -48,29 +48,22 @@ Département des Sciences Informatiques</div>
 <div class="columns">            
 <div> 
  
-# JLC Jonathan Lechien 
-### jlechien@he2b.be 
-### 
-</div>
-<div>
- 
-# MHI Mohamed Hadjili
-### mhadjili@he2b.be
-### 
-
- 
-</div>
-<div>
- 
 # ABE Abderrahmen Belfikh
 ### abelfkih@he2b.be
 ### 
+</div>
+<div>
+ 
+# ZAT Zakaria Attaouil
+### zattaouil@he2b.be
+### 
 
  
 </div>
+
 </div>
 
-> **Contact des membres du personnel**: https://ects.esi-bru.be/online/personnels/ac2526.html
+> **Contact des membres du personnel**: https://ects.esi-bru.be/online/personnels/ac2627.html
 ---
 
 # Objectifs et acquis d'apprentissage
@@ -83,7 +76,7 @@ Département des Sciences Informatiques</div>
 
 - Établir des liens entre les compétences acquises pendant le programme d'études et les chemins de carrière correspondants
 
-> **Fiche de l'activité**: https://ects.esi-bru.be/online/cours/ac2526_1int1a_1intm1a.html
+> **Fiche de l'activité**: https://ects.esi-bru.be/online/cours/ac2627_1int1a_1intm1a.html
 
 <!--
 Cette activité vise à introduire les étudiant·e·s aux différents domaines de l'informatique, tels que le développement logiciel, les bases de données, les réseaux, ... Elle présente les métiers et rôles associés à un diplôme en informatique, détaillant leurs responsabilités, compétences nécessaires et opportunités professionnelles. L'objectif est d'aider les étudiant·e·s à établir des liens entre leurs compétences et les carrières possibles, en les encourageant à réfléchir à leurs intérêts pour identifier des chemins professionnels pertinents. Ce cours fournira une mise à jour sur les tendances actuelles et émergentes du secteur de l'informatique.
