@@ -39,7 +39,7 @@ theme       : godel
 <div class="title"         > Introduction aux métiers </div>
 <div class="subtitle"      > INTM1 </div>
 <div class="author"        > A. Belfkih & Z. Attaouil </div>
-<div class="date"          > Semaine du 19 septembre 2026 </div>
+<div class="date"          > Samedi 19 septembre 2026 </div>
 <div class="organization"  > Haute École Bruxelles-Brabant : 
 Département des Sciences Informatiques</div>
 
@@ -711,7 +711,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 <!-- _class: cool-list -->
 
 1. *Allez sur wooclap.com*
-1. *Entrez le code d'événement dans le bandeau supérieur **CLGMPC***
+1. *Entrez le code d'événement dans le bandeau supérieur **HHCJCGE***
 
 </div>  
 <div>
@@ -1062,7 +1062,7 @@ sur Wikipédia ">
 <!-- _class: cool-list -->
 
 1. *Allez sur wooclap.com*
-1. *Entrez le code d'événement dans le bandeau supérieur **EQXXZO***
+1. *Entrez le code d'événement dans le bandeau supérieur **MOBPDAF***
 
 </div>  
 <div>
@@ -1301,7 +1301,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 <!-- _class: cool-list -->
 
 1. *Allez sur wooclap.com*
-1. *Entrez le code d'événement dans le bandeau supérieur **NKRSZO***
+1. *Entrez le code d'événement dans le bandeau supérieur **EOONAMR***
 
 </div>  
 <div>
